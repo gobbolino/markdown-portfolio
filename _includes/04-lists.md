@@ -1,6 +1,6 @@
--Python
-  -Programming
--Exercise
-  -Cycling
-  -Running
+- Python
+  - Programming
+- Exercise
+  - Cycling
+  - Running
 
