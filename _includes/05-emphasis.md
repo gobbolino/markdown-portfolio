@@ -1,4 +1,4 @@
-*Python*
-*R*
-*Statistics*
-**Data Analytics**
+- *Python*
+- *R*
+- *Statistics*
+- **Data Analytics**
